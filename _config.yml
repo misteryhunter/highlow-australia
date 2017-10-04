@@ -1,10 +1,7 @@
 # basic options
 title: ハイローオーストラリアのミステリー
 author: ミステリハンター
-email: your-email@domain.com
 description: ハイローオーストラリアにあるミステリーを探る
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
